@@ -19,13 +19,13 @@ No? Stop reading.
 
 Yes? Well, then this is for you.
 
-### Files Included
+### How?
+
+A Keyboard Maestro macro ([mnt-itunes-drive.kmmacros]) runs whenever iTunes launches or activates:
 
 ![Screenshot of Keyboard Maestro macro](mnt-itunes-drive.jpg)
 
-[mnt-itunes-drive.kmmacros] — Keyboard Maestro macro which launches script whenever iTunes launches or activates
-
-[mnt-itunes-drive.sh] - the shell script which does the heavy lifting
+that macro calls a shell script ([mnt-itunes-drive.sh]) which does the heavy lifting.
 
 
 ## Things You __Must__ Do Before This Will Work For You
