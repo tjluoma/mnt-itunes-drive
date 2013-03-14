@@ -37,3 +37,8 @@ Yes? Well, then this is for you.
 1.	Load [mnt-itunes-drive.kmmacros] into Keyboard Maestro and point it at wherever you put [mnt-itunes-drive.sh]
 
 
+[mnt-itunes-drive.sh]: mnt-itunes-drive.sh
+
+[mnt-itunes-drive.kmmacros]: mnt-itunes-drive.kmmacros
+
+[Keyboard Maestro]: http://www.keyboardmaestro.com/main/
